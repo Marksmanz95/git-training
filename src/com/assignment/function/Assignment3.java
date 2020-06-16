@@ -3,9 +3,9 @@ package com.assignment.function;
 public class Assignment3 {
 	public static void main(String[] args) {
 		Integer[] arr = {5,3,1,9,2,4};
-		System.out.println("Minimun is "+minimum(arr));
-		System.out.println("Average is "+average(arr));
-		System.out.println("Maximum is "+maximum(arr));
+		System.out.println("Minimun in array is "+minimum(arr));
+		System.out.println("Average in array is "+average(arr));
+		System.out.println("Maximum in array is "+maximum(arr));
 		
 	}
 	public static int minimum(Integer[] arr){
